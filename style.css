@@ -2,13 +2,38 @@
 
 body
 {
-    background-color:rgb(241, 234, 217);
+    background-image: linear-gradient(to right, #a0cab5, #f1edd0);
     color: black;
     font-size: 12pts;
     font-family: arial;
+    text-align: center;
+    text-decoration: none;
+    margin: none;
 }
 
 h1
 {
-    color:rgb(182, 77, 28);
+    color:#2b4b32;
+    font-size: 30pt;
+    font-family: arial
+}
+
+h2
+{
+    color: black;
+    font-size: 30pt;
+    font-family: arial
+}
+
+h3
+{
+    color:black;
+    font-size: 30pt;
+    font-family: arial
+}
+
+a
+{
+    color:blue;
+    text-decoration: none;
 }
